@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kpoluektov
+- 👀 I’m interested in relational databases, oltp/dwh workload and data migration
+- 💞️ I’m looking to collaborate on OpenSource projects to make data migration easier
+- 📫 How to reach me - kpoluektov@gmail.com
